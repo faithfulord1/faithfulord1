@@ -17,7 +17,7 @@ Governed AI-assisted software testing workspace for requirements analysis, test 
 - Northwind semantic-vs-exact-format validation
 - Automated CI and tests
 
-[View repository](https://github.com/faithfulord1/Palm92-ai-test-copliot)
+[View repository](https://github.com/faithfulord1/Palm92-ai-test-copilot)
 
 ### 📞 Palm92 Lead Recovery OS
 Human-governed WebMCP workflow that helps service businesses recover missed high-value leads while keeping final booking under explicit human approval.
