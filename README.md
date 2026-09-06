@@ -42,7 +42,7 @@ Property sourcing, risk assessment and investment-intelligence platform with gov
 ### 📁 GRC Evidence Vault
 Infrastructure-as-code evidence and assurance project demonstrating control implementation, validation, evidence collection and auditability.
 
-[View repository](https://github.com/faithfulord1/wci-safeguarding-app)
+[View repository](https://github.com/faithfulord1/palm92-grc-evidence-vault)
 
 ## What I Focus On
 
