@@ -55,6 +55,11 @@ Infrastructure-as-code evidence and assurance project demonstrating control impl
 - Audit trails, provenance and verification
 - Practical AI systems for real operational problems
 
+## Certifications & Professional Development
+
+- **Generative AI Mastermind — Certificate of Completion** | **Outskill**  
+  Successfully completed the Generative AI Mastermind programme. Certificate presented to **Faith Wright** and signed by **Vaibhav Sisinty, Founder, Outskill**.
+
 ## Design Principle
 
 Palm92 projects are designed around a simple governance boundary:
