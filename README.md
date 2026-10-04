@@ -6,6 +6,13 @@ I build governed AI systems that investigate problems, support decisions, preser
 
 > **AI investigates. Humans decide. Evidence proves what happened.**
 
+## Start Here
+
+**Palm92 AI Governance Check**  
+A practical 10-question diagnostic covering purpose, evidence provenance, agent identity, permissions, human approval, audit trails, uncertainty, privacy/security, escalation and accountability.
+
+The landing-page source is now in this repository as `index.html`. It is designed as the single destination for LinkedIn attention, recruiter interest, collaborators and potential pilot conversations.
+
 ## Flagship Projects
 
 ### 🧪 Palm92 AI Test Copilot
@@ -54,11 +61,6 @@ Infrastructure-as-code evidence and assurance project demonstrating control impl
 - Explainable risk and decision support
 - Audit trails, provenance and verification
 - Practical AI systems for real operational problems
-
-## Certifications & Professional Development
-
-- **Generative AI Mastermind — Certificate of Completion** | **Outskill**  
-  Successfully completed the Generative AI Mastermind programme. Certificate presented to **Faith Wright** and signed by **Vaibhav Sisinty, Founder, Outskill**.
 
 ## Design Principle
 
