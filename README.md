@@ -51,6 +51,13 @@ Infrastructure-as-code evidence and assurance project demonstrating control impl
 
 [View repository](https://github.com/faithfulord1/palm92-grc-evidence-vault)
 
+### ✈️ SkyProof — Flying Vehicle Reality Check
+An independent prototype that helps readers distinguish reported demonstrations from company claims, certification questions and unresolved safety or delivery issues.
+
+[Open SkyProof](https://skyproof-flight-evidence.faithfulord1.chatgpt.site/)
+
+This is an early project, not an engineering assessment, safety certification or investment advice. Feedback and corrections from aviation, engineering, safety and EV readers are welcome.
+
 ## What I Focus On
 
 - AI governance and responsible agent design
