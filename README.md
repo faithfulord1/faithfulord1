@@ -13,6 +13,11 @@ A practical 10-question diagnostic covering purpose, evidence provenance, agent 
 
 The landing-page source is now in this repository as `index.html`. It is designed as the single destination for LinkedIn attention, recruiter interest, collaborators and potential pilot conversations.
 
+## Featured Palm92 Reel
+
+**Responsible AI CV Reel**  
+A short, voiceover-led video on using AI to clarify genuine CV experience without inventing facts. [View the script and publication copy](content/reels/ai-cv-responsibly/README.md).
+
 ## Flagship Projects
 
 ### 🧪 Palm92 AI Test Copilot
