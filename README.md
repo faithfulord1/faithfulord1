@@ -13,6 +13,14 @@ A practical 10-question diagnostic covering purpose, evidence provenance, agent 
 
 The landing-page source is now in this repository as `index.html`. It is designed as the single destination for LinkedIn attention, recruiter interest, collaborators and potential pilot conversations.
 
+## Learn by Building
+
+The conversation that inspired this portfolio made one point clear: curiosity can turn unfamiliar tools into practical experiments. GitHub is where I document those experiments, learn in public and make the work reviewable.
+
+My approach is measured: **curiosity → small experiment → verification → documented evidence → human decision**. AI can help investigate, draft and build. People remain responsible for checking results and authorising consequential actions.
+
+[Read the AI Curiosity to Evidence playbook](docs/AI-CURIOSITY-TO-EVIDENCE.md) for the learning loop, prompt patterns, starter repository structure and a seven-day path.
+
 ## Flagship Projects
 
 ### 🧪 Palm92 AI Test Copilot
